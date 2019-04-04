@@ -25,4 +25,9 @@ Config.py file stores all my constant variables
 Pre-Trained Resnet model is used for this image classification problem.(resnet.py)
 ```
 
+# Installing Dependencies
 
+Supported Python version 3 or higher
+```
+* [Keras](https://keras.io/)
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/)
