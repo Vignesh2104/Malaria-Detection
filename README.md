@@ -33,3 +33,12 @@ Supported Python version 3 or higher
 * [Numpy](http://www.numpy.org/) & [Scikit-learn](https://scikit-learn.org/stable/) - ``` pip install -U scikit-learn ```
 * [Matplotlib](https://matplotlib.org/) - ``` pip install matplotlib ```
 * [imutils](https://github.com/jrosebr1/imutils) ``` pip install --upgrade imutils ```
+
+# Result
+
+At the end of the 50th epoch we are obtaining:
+```
+96.50% accuracy on the training data
+96.78% accuracy on the validation data
+97% accuracy on the testing data
+```
