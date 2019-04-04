@@ -28,6 +28,8 @@ Pre-Trained Resnet model is used for this image classification problem.(resnet.p
 # Installing Dependencies
 
 Supported Python version 3 or higher
-```
-* [Keras](https://keras.io/)
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/)
+
+* [Keras](https://keras.io/) - ``` pip install keras ```
+* [Numpy](http://www.numpy.org/) & [Scikit-learn](https://scikit-learn.org/stable/) - ``` pip install -U scikit-learn ```
+* [Matplotlib](https://matplotlib.org/) - ``` pip install matplotlib ```
+* [imutils](https://github.com/jrosebr1/imutils) ``` pip install --upgrade imutils ```
